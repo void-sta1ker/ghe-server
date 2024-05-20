@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Personal Care and Beauty Products",
+    "description": "Personal care and beauty products that prioritize natural ingredients, sustainable sourcing, and eco-friendly packaging.",
+    "image": "",
+    "products": [],
+    "isActive": true
+  },
+  {
+    "name": "Clothing and Apparel",
+    "description": "Clothing and apparel made from sustainable materials, produced under fair labor conditions, and designed to minimize environmental impact.",
+    "image": "",
+    "products": [],
+    "isActive": true
+  },
+  {
+    "name": "Home and Household Products",
+    "description": "Household products and home goods made from environmentally friendly materials, with a focus on sustainability and reduced ecological footprint.",
+    "image": "",
+    "products": [],
+    "isActive": true
+  },
+  {
+    "name": "Food and Beverages",
+    "description": "Food products and beverages that prioritize organic ingredients, fair trade practices, and sustainable agriculture methods.",
+    "image": "",
+    "products": [],
+    "isActive": true
+  },
+  {
+    "name": "Outdoor and Recreation",
+    "description": "Outdoor gear and recreational products designed for outdoor activities, travel, and adventure, with a focus on sustainability and environmental stewardship.",
+    "image": "",
+    "products": [],
+    "isActive": true
+  }
+]

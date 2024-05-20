@@ -1,0 +1,27 @@
+{
+  "env": {
+    "browser": false,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": [
+    "airbnb-base",
+    "eslint:recommended",
+    "plugin:n/recommended",
+    "plugin:import/recommended",
+    "plugin:promise/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {},
+  "settings": {
+    "import/resolver": {
+      "alias": {
+        "map": [["@routes", "./routes"]],
+        "extensions": [".js", ".json"]
+      }
+    }
+  }
+}

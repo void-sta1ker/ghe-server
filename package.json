@@ -1,0 +1,62 @@
+{
+  "name": "ghe-server",
+  "version": "0.1.0",
+  "description": "green-haven-express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js",
+    "seed:db": "node services/db/seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshodwiut/ghe-server.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "dilshodwiut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilshodwiut/ghe-server/issues"
+  },
+  "homepage": "https://github.com/dilshodwiut/ghe-server#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1550.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.4",
+    "multer": "^1.4.5-lts.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "normalize-url": "^8.0.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1",
+    "socket.io": "^4.7.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=18.16.0",
+    "npm": "9.5.1"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "npm": "9.5.1"
+  }
+}

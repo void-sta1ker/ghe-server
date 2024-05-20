@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Patagonia",
+    "description": "Outdoor clothing and gear company, well-known for its commitment to sustainability and environmental activism. They use recycled materials, organic cotton, and fair trade practices in their products.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "EcoVessel",
+    "description": "EcoVessel specializes in reusable water bottles, mugs, and tumblers made from sustainable materials like stainless steel and bamboo. They prioritize durability and sustainability in their designs.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "TOMS",
+    "description": "TOMS is famous for its 'One for One' business model, where for every product purchased, they donate to someone in need. In addition to their shoe donations, TOMS offers eco-friendly footwear made from sustainable materials like organic cotton and recycled polyester.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Method",
+    "description": "Method is a popular brand for eco-friendly cleaning and home care products. They focus on using biodegradable, non-toxic ingredients and packaging made from recycled materials.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Burt's Bees",
+    "description": "Burt's Bees is known for its natural personal care products, including lip balms, skincare, and cosmetics. They use responsibly sourced ingredients and prioritize sustainable packaging.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+
+  {
+    "name": "Dr. Bronner's",
+    "description": "Known for its organic and fair trade soaps, lotions, and personal care products made with natural ingredients.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "The Body Shop",
+    "description": "Offers a wide range of cruelty-free and ethically sourced skincare, haircare, and makeup products.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Lush",
+    "description": "Known for its handmade cosmetics made from fresh, organic fruits and vegetables, and ethically sourced ingredients.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+
+  {
+    "name": "Eileen Fisher",
+    "description": "Known for its timeless and sustainable clothing designs, using organic fibers and promoting ethical manufacturing.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Thought",
+    "description": "Offers eco-friendly clothing made from sustainable materials like bamboo, hemp, and organic cotton.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+
+  {
+    "name": "Seventh Generation",
+    "description": "Known for its eco-friendly cleaning and household products made with plant-based ingredients and recycled materials.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "IKEA",
+    "description": "Offers a range of sustainable home furnishings and products, including furniture made from renewable materials and energy-efficient appliances.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Bambu",
+    "description": "Produces sustainable home goods and kitchenware made from renewable bamboo and other eco-friendly materials.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+
+  {
+    "name": "Organic Valley",
+    "description": " A cooperative of organic farmers producing a wide range of organic dairy, eggs, and meat products.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Clif Bar",
+    "description": "Known for its organic and sustainably sourced energy bars and snacks, using organic ingredients and sustainable packaging.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Beyond Meat",
+    "description": "Offers plant-based meat alternatives made from ingredients like pea protein, providing sustainable and cruelty-free options for consumers.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+
+  {
+    "name": "REI Co-op",
+    "description": "Offers a wide range of eco-friendly outdoor gear, apparel, and equipment, with a focus on sustainability and responsible sourcing.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "PrAna",
+    "description": "Known for its sustainable and fair trade outdoor clothing, including yoga wear, activewear, and adventure clothing.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  },
+  {
+    "name": "Cotopaxi",
+    "description": "Produces outdoor gear and apparel with a focus on sustainability and social impact, using recycled materials and fair trade practices.",
+    "image": "",
+    "merchant": "",
+    "isActive": true
+  }
+]

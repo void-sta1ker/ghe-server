@@ -1,0 +1,8 @@
+{
+  "ignore": ["node_modules", "build", "dist"],
+  "verbose": false,
+  "watch": ["./"],
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

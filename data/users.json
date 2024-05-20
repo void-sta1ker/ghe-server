@@ -1,0 +1,29 @@
+[
+  {
+    "phoneNumber": "998936604530",
+    "firstName": "Dilshod",
+    "lastName": "Ramatilloev",
+    "password": "wiut00010504",
+    "merchant": "",
+    "avatar": "",
+    "role": "ADMIN"
+  },
+  {
+    "phoneNumber": "998999999999",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "123456",
+    "merchant": "",
+    "avatar": "",
+    "role": "USER"
+  },
+  {
+    "phoneNumber": "998888888888",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "password": "123456",
+    "merchant": "",
+    "avatar": "",
+    "role": "MERCHANT"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "product": "",
+    "user": "",
+    "title": "Good",
+    "rating": 4.5,
+    "review": "I mean it's alright. I can't complain.",
+    "isRecommended": true,
+    "status": "APPROVED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Bad",
+    "rating": 2.5,
+    "review": "Trash. I'll never buy it again.",
+    "isRecommended": false,
+    "status": "REJECTED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Awesome",
+    "rating": 5,
+    "review": "I love it. I'll buy it again.",
+    "isRecommended": true,
+    "status": "WAITING_APPROVAL"
+  },
+
+  {
+    "product": "",
+    "user": "",
+    "title": "Excellent Product",
+    "rating": 4.8,
+    "review": "I'm really impressed with the quality of this product. It exceeded my expectations.",
+    "isRecommended": true,
+    "status": "APPROVED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Disappointing Experience",
+    "rating": 2.2,
+    "review": "This product didn't live up to the hype. I expected better performance.",
+    "isRecommended": false,
+    "status": "REJECTED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Average",
+    "rating": 3.5,
+    "review": "It's neither great nor terrible. Just average.",
+    "isRecommended": true,
+    "status": "WAITING_APPROVAL"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Horrible Quality",
+    "rating": 1.5,
+    "review": "The quality of this product is terrible. It fell apart after just a few uses.",
+    "isRecommended": false,
+    "status": "APPROVED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Impressive",
+    "rating": 4.9,
+    "review": "I'm blown away by how well this product works. Definitely worth the investment.",
+    "isRecommended": true,
+    "status": "REJECTED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Mixed Feelings",
+    "rating": 3.0,
+    "review": "There are some good aspects to this product, but there are also some drawbacks. It's a mixed bag.",
+    "isRecommended": false,
+    "status": "WAITING_APPROVAL"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Not Worth It",
+    "rating": 2.0,
+    "review": "I regret buying this product. It's not worth the money.",
+    "isRecommended": false,
+    "status": "APPROVED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Highly Recommended",
+    "rating": 4.7,
+    "review": "I highly recommend this product to anyone looking for quality and value.",
+    "isRecommended": true,
+    "status": "REJECTED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Decent",
+    "rating": 3.3,
+    "review": "It's a decent product for the price. Not exceptional, but it gets the job done.",
+    "isRecommended": true,
+    "status": "WAITING_APPROVAL"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Terrible Customer Service",
+    "rating": 1.0,
+    "review": "Not only is the product bad, but the customer service is also terrible. I'm extremely dissatisfied.",
+    "isRecommended": false,
+    "status": "APPROVED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Simply Amazing",
+    "rating": 5.0,
+    "review": "Wow! I'm amazed by how great this product is. It's everything I wanted and more.",
+    "isRecommended": true,
+    "status": "REJECTED"
+  },
+  {
+    "product": "",
+    "user": "",
+    "title": "Mediocre",
+    "rating": 3.0,
+    "review": "This product is just okay. It doesn't stand out in any way.",
+    "isRecommended": false,
+    "status": "WAITING_APPROVAL"
+  }
+]

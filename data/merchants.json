@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Jane Doe",
+    "phoneNumber": "998888888888",
+    "brandName": "String",
+    "business": "String",
+    "brand": "",
+    "status": "WAITING_APPROVAL",
+    "isActive": true
+  }
+]
