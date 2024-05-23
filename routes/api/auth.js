@@ -198,7 +198,9 @@ router.post("/check-phone", jsonParser, async (req, res) => {
   try {
     const { phoneNumber, otp, token } = req.body;
 
-    if (otps.get(phoneNumber) !== otp) {
+    // don't validate otp
+    // otps.get(phoneNumber) !== otp
+    if (false) {
       return res.status(400).json({
         success: false,
 
