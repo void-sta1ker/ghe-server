@@ -21,5 +21,10 @@ module.exports = {
   bot: {
     token: process.env.BOT_TOKEN,
     chatId: process.env.BOT_CHAT_ID,
+    chats: [
+      { id: 401015994, username: "Sardor" },
+      { id: 1346711497, username: "Bobomurod" },
+      { id: 5350135989, username: "Oqilxon" },
+    ],
   },
 };

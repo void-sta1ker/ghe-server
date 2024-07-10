@@ -9,4 +9,10 @@ bot.on("message", (msg) => {
   bot.sendMessage(chatId, text);
 });
 
-module.exports = bot;
+sendMessage = (mainChatId, text) => {
+  keys.bot.chats.forEach((chat) => {
+    bot.sendMessage(chat.id, `Message to ${chat.username}:\n${text}`);
+  });
+};
+
+module.exports = { sendMessage, bot };
